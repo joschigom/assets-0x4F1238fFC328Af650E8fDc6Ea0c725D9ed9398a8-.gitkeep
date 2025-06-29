@@ -1,0 +1,11 @@
+{
+  "name": "gsLcoin",
+  "symbol": "GSL",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "gsLcoin ist ein experimenteller ERC20-Token.",
+  "website": "https://deinprojekt.xyz",
+  "explorer": "https://etherscan.io/token/0x4F1238fFC328Af650E8fDc6Ea0c725D9ed9398a8",
+  "status": "active",
+  "id": "0x4F1238fFC328Af650E8fDc6Ea0c725D9ed9398a8"
+}
